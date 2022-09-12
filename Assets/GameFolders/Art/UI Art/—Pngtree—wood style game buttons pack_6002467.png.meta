@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 6f6959f132135ad46b39aeb1518b0060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5314597023526002282
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_0"
+  - first:
+      213: 3726590344774154193
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_1"
+  - first:
+      213: -6865464254186817900
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_2"
+  - first:
+      213: -2556022261273864967
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_3"
+  - first:
+      213: 7617565960069155035
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_4"
+  - first:
+      213: -5235403373404596510
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_5"
+  - first:
+      213: -2170146025203018399
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_6"
+  - first:
+      213: 5928750447753302648
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_7"
+  - first:
+      213: 7321660994542403846
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_8"
+  - first:
+      213: 4269542248917303837
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_9"
+  - first:
+      213: -2824366031101513571
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_10"
+  - first:
+      213: -183224336249938915
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_11"
+  - first:
+      213: 4069460686953849126
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_12"
+  - first:
+      213: 746199598824508310
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_13"
+  - first:
+      213: -7208265215473539937
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_14"
+  - first:
+      213: -932739636105097721
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_15"
+  - first:
+      213: -8021665138810949273
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_16"
+  - first:
+      213: -1100645876002063463
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_17"
+  - first:
+      213: 7458030602530642350
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_18"
+  - first:
+      213: -6431129674340060840
+    second: "\u2014Pngtree\u2014wood style game buttons pack_6002467_19"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_0"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 952
+        width: 211
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69162604a22ce36b0800000000000000
+      internalID: -5314597023526002282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_1"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 951
+        width: 211
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f9ab9c2287b330800000000000000
+      internalID: 3726590344774154193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_2"
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 953
+        width: 170
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4967d07b2a8f8b0a0800000000000000
+      internalID: -6865464254186817900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_3"
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 983
+        width: 346
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4d7c6bb4f278cd0800000000000000
+      internalID: -2556022261273864967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_4"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 736
+        width: 211
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8870f81e707b960800000000000000
+      internalID: 7617565960069155035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_5"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 735
+        width: 211
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65658ce5c1857b0800000000000000
+      internalID: -5235403373404596510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_6"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 737
+        width: 170
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1655c0120b712e1e0800000000000000
+      internalID: -2170146025203018399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_7"
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 759
+        width: 353
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8721640de17274250800000000000000
+      internalID: 5928750447753302648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_8"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 511
+        width: 210
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6018889f1e3cb9560800000000000000
+      internalID: 7321660994542403846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_9"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 506
+        width: 210
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d120d3ced06704b30800000000000000
+      internalID: 4269542248917303837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_10"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 508
+        width: 169
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90b3801f06ddc8d0800000000000000
+      internalID: -2824366031101513571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_11"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 536
+        width: 354
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c9d9bdf6e057df0800000000000000
+      internalID: -183224336249938915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_12"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 300
+        width: 211
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212d411fe0a97830800000000000000
+      internalID: 4069460686953849126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_13"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 301
+        width: 211
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b4973e4980b5a00800000000000000
+      internalID: 746199598824508310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_14"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 303
+        width: 170
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9425e04af817fb90800000000000000
+      internalID: -7208265215473539937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_15"
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 311
+        width: 350
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e470a2e3e3e03f0800000000000000
+      internalID: -932739636105097721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_16"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 73
+        width: 211
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761f90e8e025da090800000000000000
+      internalID: -8021665138810949273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_17"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 72
+        width: 211
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf5614868b9b0f0800000000000000
+      internalID: -1100645876002063463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_18"
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 170
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d4d3915f308760800000000000000
+      internalID: 7458030602530642350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wood style game buttons pack_6002467_19"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 102
+        width: 358
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851bc7082a900c6a0800000000000000
+      internalID: -6431129674340060840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
